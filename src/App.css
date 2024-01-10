@@ -1,0 +1,73 @@
+.contain{
+  margin: 30px;
+  justify-content: space-between;
+
+}
+.main{
+  background-color: cadetblue;
+  color: #fff;
+  text-align: center;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+.content{
+  display: inline-flex;
+  align-items: center;
+  justify-content:flex-end;
+  align-content: center;
+}
+.form{
+  /* align-self: self-start; */
+  margin: 20px 40px;
+  /* margin-right: 200px; */
+  width: 80%;
+ 
+}
+.mytable{
+  text-align: center;
+  width: 600px;
+  margin-left: 200px;
+  border: 1px solid black;
+}
+th{
+  border-bottom: 1px solid black;
+  background-color: rgb(111, 231, 191);
+}
+td{
+  border: 1px solid black;
+  background-color: rgb(220, 250, 137);
+}
+.rad {
+  margin-left: 100px;
+}
+.ckbox{
+
+    margin-left: 30px;
+}
+.formtitle{
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 20px ;
+  text-align: center;
+
+}
+.ttitle{
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 20px ;
+    margin-left: 100px;
+    text-align: center;
+  
+}
+p{
+  padding-right: 10px;
+  width: 120px;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+}
